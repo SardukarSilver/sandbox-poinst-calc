@@ -1,0 +1,18 @@
+.ant-table-wrapper {
+  & .ant-table-thead {
+    & .overal_points {
+      text-align: center;
+    }
+
+
+  }
+
+  & .overal_points {
+    text-align: center;
+  }
+
+  & .customer_id {
+    width: 100px;
+    text-align: center;
+  }
+}

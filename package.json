@@ -1,0 +1,17 @@
+{
+  "name": "reward-calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "concurrently 'cd frontend && npm start' 'cd backend && npm run dev'",
+    "presetup": "concurrently 'cd frontend && npm i' 'cd backend && npm i'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.6.0",
+    "nanoid": "^4.0.0"
+  }
+}
