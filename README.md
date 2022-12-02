@@ -1,6 +1,6 @@
 # sandbox-poinst-calc
 
-### To lunch:
+### To launch:
 1) clone repo
 2) Run ```npm install``` in ```sandbox-poinst-calc``` (root folder)
 3) Run ```npm run presetup```
